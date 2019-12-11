@@ -1,0 +1,11 @@
+C:\Users\ryc999\Documents\GitHub\demo\bin\Debug\netcoreapp2.0\demo.deps.json
+C:\Users\ryc999\Documents\GitHub\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.json
+C:\Users\ryc999\Documents\GitHub\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.dev.json
+C:\Users\ryc999\Documents\GitHub\demo\bin\Debug\netcoreapp2.0\demo.dll
+C:\Users\ryc999\Documents\GitHub\demo\bin\Debug\netcoreapp2.0\demo.pdb
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.csprojAssemblyReference.cache
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.cache
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.dll
+C:\Users\ryc999\Documents\GitHub\demo\obj\Debug\netcoreapp2.0\demo.pdb
